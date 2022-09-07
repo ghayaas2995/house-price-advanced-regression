@@ -7,7 +7,7 @@ The objective of this machine learning project is to predict the sale price of e
 
 Summary of work in this project:
 
-•	Collected meaningful insights about the features by performing exploratory data analysis, plotted bargraphs, statistical charts, line charts and bar graphs of the features using matplotlib and seaborn package in python. Imputed missing data
+•	Collected meaningful insights about the features by performing exploratory data analysis, plotted statistical charts, line charts and bar graphs of the features using matplotlib and seaborn package in python. Imputed missing data
 
 •	Implemented feature scaling techniques to scale large numerical variables.
 
